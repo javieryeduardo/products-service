@@ -12,6 +12,19 @@
 	<artifactId>products-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>products-service</name>
+	
+	
+	<distributionManagement>
+        <repository>
+          <uniqueVersion>false</uniqueVersion>
+          <id>corp1</id>
+        <name>Corporate Repository</name>
+      <url>scp://github.com/javieryeduardo/products-service.git</url>
+      <layout>default</layout>
+    </repository>
+</distributionManagement>
+	
+	
 	<description>Demo project for migrating Monolith to Microservices</description>
 	<properties>
 		<java.version>1.8</java.version>
