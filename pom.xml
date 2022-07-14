@@ -55,7 +55,7 @@
 						<configuration>
 							<classifier>spring-boot</classifier>
 							<mainClass>
-								javieryeduardo.uy.edu.ort.devops.productsserviceexample.ProductsServiceExampleApplication
+								javieryeduardo.src.test.java.uy.edu.ort.devops.productsserviceexample.ProductsServiceExampleApplication
 							</mainClass>
 						</configuration>
 					</execution>
