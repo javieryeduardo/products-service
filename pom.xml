@@ -8,9 +8,9 @@
       <relativePath />
       <!-- lookup parent from repository -->
    </parent>
-   <groupId>build</groupId>
-   <artifactId>app</artifactId>
-   <version>1</version>
+   <groupId>tree</groupId>
+   <artifactId>main</artifactId>
+   <version>build</version>
    <distributionManagement>
       <repository>
          <id>javieryeduardo</id>
