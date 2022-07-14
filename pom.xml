@@ -19,6 +19,12 @@
     <url>http://github.com/javieryeduardo/products-service.git</url>  
   </repository>
 </distributionManagement>
-
+<dependency>
+    <groupId>org.slf4j</groupId>
+    <artifactId>slf4j-api</artifactId>
+    <version>version number</version>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-starter-web</artifactId>
+</dependency>
 
 </project>
