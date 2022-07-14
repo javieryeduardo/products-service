@@ -8,6 +8,15 @@
 		<version>2.5.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
+	<distributionManagement>
+             <repository>
+               <uniqueVersion>false</uniqueVersion>
+               <id>corp1</id>
+               <name>Corporate Repository</name>
+               <url>http://github.com/javieryeduardo/products-service.git</url>
+               <layout>default</layout>
+            </repository>
+        </distributionManagement>
 	<groupId>uy.edu.ort.devops</groupId>
 	<artifactId>products-service-example</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
