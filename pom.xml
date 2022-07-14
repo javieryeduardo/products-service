@@ -8,7 +8,7 @@
 		<version>2.5.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>uy.edu.ort.devops</groupId>
+	<groupId>build</groupId>
 	<artifactId>products-service-example</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>products-service-example</name>
