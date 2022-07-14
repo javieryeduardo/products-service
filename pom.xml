@@ -16,7 +16,7 @@
   <repository>
     <id>github</id>
     <name>GitHub</name>
-    <url><url>http://github.com/javieryeduardo/products-service.git</url>  
+    <url>http://github.com/javieryeduardo/products-service.git</url>  
   </repository>
 </distributionManagement>
 
