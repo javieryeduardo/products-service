@@ -9,9 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>build</groupId>
-	
-	<name>products-service-example</name>
-	
+	<artifactId>products-service-example</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>product-service-example</name>
+	<description>Obligatorio</description>
 	
 	<distributionManagement>
         <repository>
