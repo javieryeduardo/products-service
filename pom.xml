@@ -5,7 +5,7 @@
          <profile>
             <id>Sonar</id>
             <activation>
-                 <activeByDefault>true</activeByDefault>
+               <activeByDefault>true</activeByDefault>
                </activation>
                <properties>
                <sonar.host.url>https://sonarcloud.io</sonar.host.url>
