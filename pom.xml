@@ -11,15 +11,6 @@
                <sonar.host.url>https://sonarcloud.io</sonar.host.url>
                </properties>
          </profile>
-         <profile>
-            <id>Sonar</id>
-            <activation>
-               <activeByDefault>true</activeByDefault>
-               </activation>
-               <properties>
-                  <sonar.projectKey>ClaveProyecto</sonar.projectKey>
-               </properties>
-         </profile>
    </profiles>
    <parent>
       <groupId>org.springframework.boot</groupId>
