@@ -8,7 +8,8 @@
                <activeByDefault>true</activeByDefault>
                </activation>
                <properties>
-               <sonar.organization>Test</sonar.organization>
+               <sonar.organization>javieryeduardo</sonar.organization>
+                <sonar.projectKey>javieryeduardo_products-service</sonar.projectKey>  
                <sonar.host.url>https://sonarcloud.io</sonar.host.url>
                </properties>
          </profile>
