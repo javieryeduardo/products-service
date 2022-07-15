@@ -6,10 +6,10 @@
             <id>Sonar</id>
             <activation>
                <activeByDefault>true</activeByDefault>
-               </activation>
+            </activation>
                <properties>
                <sonar.organization>javieryeduardo</sonar.organization>
-                <sonar.projectKey>javieryeduardo_products-service</sonar.projectKey>  
+               <sonar.projectKey>javieryeduardo_products-service</sonar.projectKey>  
                <sonar.host.url>https://sonarcloud.io</sonar.host.url>
                </properties>
          </profile>
