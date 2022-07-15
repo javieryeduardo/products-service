@@ -9,6 +9,8 @@
                </activation>
                <properties>
                <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+               </properties>
+               <properties>
                <sonar.projectKey>ClaveProyecto</sonar.projectKey>
                </properties>
          </profile>
