@@ -28,7 +28,7 @@
       <repository>
          <id>javieryeduardo</id>
          <name>javieryeduardo</name>
-         <url>https://github.com/jenkins-docs/simple-java-maven-app</url>
+         <url>https://github.com/javieryeduardo/products-service</url>
       </repository>
    </distributionManagement>
    <dependencies>
