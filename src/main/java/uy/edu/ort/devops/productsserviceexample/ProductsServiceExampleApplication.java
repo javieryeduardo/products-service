@@ -7,8 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ProductsServiceExampleApplication {
 
 
-	public static void main(String[] args) {
-		SpringApplication.run(ProductsServiceExampleApplication.class, args);
+	public statiion.run(ProductsServiceExampleApplication.class, args);
 	}
 
 }
