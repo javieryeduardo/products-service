@@ -33,9 +33,8 @@ public class Product {
         return stock;
     }
 
-    public void setStock(int stock) {
-        this.stock = stock;
-    }
+    public void setS
+    
 
     public String getDescription() {
         return description;
