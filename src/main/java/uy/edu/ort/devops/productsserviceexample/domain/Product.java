@@ -1,10 +1,7 @@
 package uy.edu.ort.devops.productsserviceexample.domain;
 
 public class Product {
-    private String id;
-    private String name;
-    private int stock;
-    private String description;
+ 
 
     public Product(String id, String name, int stock, String description) {
         this.id = id;
