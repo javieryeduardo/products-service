@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class ProductsServiceExampleApplication {
 
-
+if string()}
 	public static void main(String[] args) {
 		SpringApplication.run(ProductsServiceExampleApplication.class, args);
 	}
