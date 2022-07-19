@@ -1,4 +1,4 @@
-package uy.edu.ort.devops.productsserviceexample.domain;
+package uy.edu.ort.devops.productsserviceexample;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
