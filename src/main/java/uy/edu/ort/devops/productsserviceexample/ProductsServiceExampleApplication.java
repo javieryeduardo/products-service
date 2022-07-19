@@ -4,9 +4,6 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-
-dasf<dasfsfsdfds<affsdf;;DD;:D::D
-
 public class ProductsServiceExampleApplication {
 
 	public static void main(String[] args) {
