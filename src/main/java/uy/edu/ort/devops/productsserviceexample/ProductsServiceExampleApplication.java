@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ProductsServiceExampleApplication {
 
 
-	publiring[] args) {
+	public static void main(String[] args) {
 		SpringApplication.run(ProductsServiceExampleApplication.class, args);
 	}
 
