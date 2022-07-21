@@ -22,7 +22,7 @@
       <!-- lookup parent from repository -->
    </parent>
    <groupId>build</groupId>
-   <artifactId>app</artifactId>
+   <artifactId>product-service</artifactId>
    <version>1</version>
    <distributionManagement>
       <repository>
